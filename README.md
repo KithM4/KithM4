@@ -1,5 +1,5 @@
-# 💫 About Me:
-🎯 I’m currently working on: My first full-stack web development project<br>🤝 I’m looking to collaborate on: Simple open-source projects to gain experience<br>💬 I’m looking for help with: Understanding complex algorithms and their applications<br>🌱 I’m currently learning: Java for my software development course<br>🗣 Ask me about: Python basics, coding challenges, and study tips for CS students<br>⚡ Fun fact: I once debugged an entire program by adding print statements everywhere.
+
+![Untitled-1](https://github.com/user-attachments/assets/87caa4aa-5d1f-4d17-9755-b2110eafaa34)
 
 
 ## 🌐 Socials:
